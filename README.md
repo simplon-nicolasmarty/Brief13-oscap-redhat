@@ -23,7 +23,7 @@ Durcissement du systeme Linux
 
 ![Capture d’écran du 2023-11-02 09-31-55.png](https://hackmd.io/_uploads/H1jWn4W7T.png)
 
-![anssi.png](https://hackmd.io/_uploads/SJTahNbma.png)
+![anssi.png]([https://hackmd.io/_uploads/SJTahNbma.png](https://media.discordapp.net/attachments/990915126301450251/1169661538198634557/anssi.png?ex=65563731&is=6543c231&hm=3893c5ad2e0eeb960b0631651744ca9463457c51ddeb6be66581eec39262db20&=&width=1440&height=533))
 
 ## Durcissement du systeme Linux
 
