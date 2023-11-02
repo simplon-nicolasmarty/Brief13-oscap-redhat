@@ -150,7 +150,6 @@ resource "azurerm_linux_virtual_machine" "vm" {
       "sudo yum install -y scap-workbench",
       "echo '- hosts: all\n  roles:\n     - { role: RedHatOfficial.rhel8_anssi_bp28_intermediary }' > playbook.yml",
       "sudo ansible-playbook -i 'localhost,' -c local playbook.yml",
-      # ajouter cette ligne pour monter le score à 91% "sudo oscap xccdf eval --profile hipaa --remediate /usr/share/xml/scap/ssg/content/ssg-rhel8-ds.xml",
       "oscap xccdf eval --report report.html --profile hipaa /usr/share/xml/scap/ssg/content/ssg-rhel8-ds.xml",
     ]
 
