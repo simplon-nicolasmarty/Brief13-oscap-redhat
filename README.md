@@ -16,14 +16,14 @@ Durcissement du systeme Linux
       "sudo ansible-playbook -i 'localhost,' -c local playbook.yml",
 ```
 
+![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202023-11-02%2009-25-10.png)
 
-![Capture d’écran du 2023-11-02 09-25-10.png](https://hackmd.io/_uploads/r1hZhNbmp.png)
+![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202023-11-02%2009-31-21.png)
 
-![Capture d’écran du 2023-11-02 09-31-21.png](https://hackmd.io/_uploads/Skh-2EWQ6.png)
+![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202023-11-02%2009-31-55.png)
 
-![Capture d’écran du 2023-11-02 09-31-55.png](https://hackmd.io/_uploads/H1jWn4W7T.png)
+![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202023-11-02%2009-43-18.png)
 
-![anssi.png]([https://hackmd.io/_uploads/SJTahNbma.png](https://media.discordapp.net/attachments/990915126301450251/1169661538198634557/anssi.png?ex=65563731&is=6543c231&hm=3893c5ad2e0eeb960b0631651744ca9463457c51ddeb6be66581eec39262db20&=&width=1440&height=533))
 
 ## Durcissement du systeme Linux
 
@@ -31,6 +31,7 @@ Durcissement du systeme Linux
 ```
 sudo oscap xccdf eval --profile hipaa --remediate /usr/share/xml/scap/ssg/content/ssg-rhel8-ds.xml
 ```
-![Capture d’écran du 2023-11-02 16-07-37.png](https://hackmd.io/_uploads/rkEaiVZ7T.png)
+
+![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202023-11-02%2016-07-37.png)
 
 ![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d'%C3%A9cran%202023-10-23%20135530.png)
