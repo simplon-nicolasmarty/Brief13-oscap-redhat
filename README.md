@@ -65,12 +65,18 @@ Dans ce repo git :
 
 ![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202023-11-02%2009-31-55.png)
 
+Résultat du rapport au niveau intermédiaire selon les recommandation de l'ANSSI :
+
 ![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202023-11-02%2009-43-18.png)
 
 
-## Durcissement du systeme Linux
+## Durcir d'avantage le systeme Linux REdHat
 
-**Score OPENScap à 91%**
+Résolution des failles potentielles avec l'outil OSCAP.
+
+**Score du rapport OPENScap à 91%**
+
+commande à intégrer :
 ```
 sudo oscap xccdf eval --profile hipaa --remediate /usr/share/xml/scap/ssg/content/ssg-rhel8-ds.xml
 ```
