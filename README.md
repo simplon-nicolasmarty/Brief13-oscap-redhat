@@ -33,4 +33,4 @@ sudo oscap xccdf eval --profile hipaa --remediate /usr/share/xml/scap/ssg/conten
 ```
 ![Capture d’écran du 2023-11-02 16-07-37.png](https://hackmd.io/_uploads/rkEaiVZ7T.png)
 
-[Capture d'écran 2023-10-23 135530.png](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d'%C3%A9cran%202023-10-23%20135530.png)https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d'%C3%A9cran%202023-10-23%20135530.png
+![](https://github.com/simplon-nicolasmarty/Brief13-oscap-redhat/blob/main/Capture%20d'%C3%A9cran%202023-10-23%20135530.png)
